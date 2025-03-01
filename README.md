@@ -1,8 +1,9 @@
-C++ Conditionals, Ternary Operators, and Loops
-📌 Overview
+<h1>C++ Conditionals, Ternary Operators, and Loops</h1>
+
+# 📌 Overview
 This repository contains C++ examples covering conditional statements (if, else, switch), ternary operators (? :), and loops (for, while, do-while). These are fundamental concepts in C++ programming, allowing efficient control flow and decision-making.
 
-📂 Contents
+## 📂 Contents
 🟢 1. Conditionals (if, else, switch)
 if_else_example.cpp → Demonstrates the usage of if, else if, and else.
 switch_case_example.cpp → Example using switch for multiple conditions.
@@ -13,7 +14,7 @@ for_loop_example.cpp → Example of a counting loop using for.
 while_loop_example.cpp → Demonstrates an iterative loop using while.
 do_while_example.cpp → Explains do-while execution flow.
 
-📖 Topics Covered
+## 📖 Topics Covered
 ✅ Conditionals (if-else)
 Used to make decisions in a program.
 if-else is useful for binary or multiple conditions.
